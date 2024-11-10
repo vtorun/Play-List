@@ -15,4 +15,6 @@ JavaScript: Functionality for controls (play, pause, etc.).
 In developing this project, HTML and CSS were used to create a simple, sleek user interface. JavaScript was implemented to manage playback functionality, update the playback time, and provide other core media player controls in a user-friendly way.
 
 # Preview
-![PlayList](https://github.com/user-attachments/assets/542fbf50-ef10-4c91-bf23-d1cc42c0950f)
+![PlayList](https://github.com/user-attachments/assets/b9a57ebe-f815-45ce-83d8-ee9d2c6c9c6f)
+
+
